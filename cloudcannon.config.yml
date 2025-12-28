@@ -1,19 +1,7 @@
 collections_config:
   pages:
-    path: ''
-    glob: '**/*.html'
-    icon: notes
-    disable_url: false
-    preview:
-      text:
-      subtext:
-      icon:
-      icon_color:
-      icon_background_color:
-      image:
-      metadata:
-      gallery:
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
-timezone: Etc/UTC
+    path: ""
+    glob: "**/*.html"
+    output: true
+    _enabled_editors:
+      - visual
