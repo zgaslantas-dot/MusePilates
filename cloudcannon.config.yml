@@ -1,7 +1,0 @@
-collections_config:
-  pages:
-    path: ""
-    glob: "**/*.html"
-    output: true
-    _enabled_editors:
-      - visual
