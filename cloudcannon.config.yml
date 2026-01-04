@@ -3,3 +3,5 @@ collections_config:
     path: ""
     glob: "**/*.html"
     output: true
+    _enabled_editors:
+      - visual
